@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+ 
+}
+#DER{
+    float: center;
+}
+#trabajo{
+ width: 1660px;
+ height: 500px;
+
+}
+.servicio{
+padding-right: 150px;
+padding-bottom: 50px;
+}
+
+.datos{
+  
+
+  padding: 30px;
+
+font-family: Impact;
+color: white
+
+}
+#creditos{
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:5mm
+}
+#creditos2{
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:5mm;
+   
+}
